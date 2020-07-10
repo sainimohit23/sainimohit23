@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Unstructured Text Parsing
-- 🌱 I’m currently learning NLP
+- 🌱 I’m currently learning advanced NLP
 - 👯 I’m looking to collaborate on DSA
 <!-- - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...
