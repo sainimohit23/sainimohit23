@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![HitCount](http://hits.dwyl.com/sainimohit23/sainimohit23.svg)](http://hits.dwyl.com/sainimohit23/sainimohit23)
+
 - 🔭 I’m currently working on Unstructured Text Parsing
 - 🌱 I’m currently learning advanced NLP
 - 👯 I’m looking to collaborate on DSA
