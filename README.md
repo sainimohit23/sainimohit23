@@ -1,3 +1,4 @@
+<img src="https://media.giphy.com/media/LPecJnY2SoqqNxiqVO/giphy.gif" alt="header" width="100%" >
 ### Hi there 👋
 
 [![HitCount](http://hits.dwyl.com/sainimohit23/sainimohit23.svg)](http://hits.dwyl.com/sainimohit23/sainimohit23)
@@ -11,4 +12,4 @@
 - ⚡ Fun fact: ...-->
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sainimohit23/)
 
-<img src="https://media.giphy.com/media/L32yu49s73AVXx1s2p/giphy.gif" alt="Girl in a jacket" width="100%" >
+<img src="https://media.giphy.com/media/L32yu49s73AVXx1s2p/giphy.gif" alt="footer" width="100%" >
