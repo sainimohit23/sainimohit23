@@ -13,4 +13,6 @@
 - ⚡ Fun fact: ...-->
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sainimohit23/)
 
+[![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=sainimohit23)](https://github.com/anuraghazra/github-readme-stats)
+
 <img src="https://media.giphy.com/media/L32yu49s73AVXx1s2p/giphy.gif" alt="footer" width="100%" >
