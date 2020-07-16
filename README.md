@@ -11,4 +11,4 @@
 - ⚡ Fun fact: ...-->
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sainimohit23/)
 
-<img src="footer.gif" alt="Girl in a jacket" width="100%" >
+<img src="https://media.giphy.com/media/L32yu49s73AVXx1s2p/giphy.gif" alt="Girl in a jacket" width="100%" >
