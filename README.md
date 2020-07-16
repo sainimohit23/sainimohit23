@@ -1,7 +1,9 @@
 <!-- <link rel="stylesheet" href="starwarsintro.css"> -->
 <!-- <img src="https://media.giphy.com/media/LPecJnY2SoqqNxiqVO/giphy.gif" alt="header" width="100%" > -->
 <!-- <img src="https://media.giphy.com/media/hVIZ0gjOtup1nOelcj/giphy.gif" alt="header" width="100%" > -->
-<a href="head.gif"><img src="smol.gif" alt="aa-1.gif" width="100%" /></a>
+<p align="center">
+<img src="https://github.com/sainimohit23/sainimohit23/blob/master/img/smol.gif" width="50%"/>
+ </p>
 
 
 
