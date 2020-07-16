@@ -1,7 +1,7 @@
 <!-- <link rel="stylesheet" href="starwarsintro.css"> -->
 <!-- <img src="https://media.giphy.com/media/LPecJnY2SoqqNxiqVO/giphy.gif" alt="header" width="100%" > -->
 <!-- <img src="https://media.giphy.com/media/hVIZ0gjOtup1nOelcj/giphy.gif" alt="header" width="100%" > -->
-<a href="https://gifyu.com/image/Q1nr"><img src="https://s7.gifyu.com/images/aa-1.gif" alt="aa-1.gif" width="100%" /></a>
+<a href="head.gif"><img src="smol.gif" alt="aa-1.gif" width="100%" /></a>
 
 
 
