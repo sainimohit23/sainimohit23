@@ -19,4 +19,4 @@
 - ⚡ Fun fact: ...-->
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sainimohit23/)
 
-<img src="https://media.giphy.com/media/L32yu49s73AVXx1s2p/giphy.gif" alt="footer" width="100%" >
+<img src="https://media.giphy.com/media/L32yu49s73AVXx1s2p/giphy.gif" alt="footer" width="100%" height="1%" />
