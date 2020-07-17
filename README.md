@@ -3,7 +3,7 @@
 <!-- <img src="https://media.giphy.com/media/hVIZ0gjOtup1nOelcj/giphy.gif" alt="header" width="100%" > -->
 
 <p align="center">
-<img src="https://github.com/sainimohit23/sainimohit23/blob/master/img/smol.gif" width="45%" height="175px"/> <img src="https://github-readme-stats.vercel.app/api?username=sainimohit23" width="45%" height="175px"/> 
+<img src="https://github.com/sainimohit23/sainimohit23/blob/master/img/smol.gif" width="75%" height="175px"/> 
 </p>
 
 ### Hi there 👋
@@ -18,5 +18,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sainimohit23/)
-
+<img src="https://github-readme-stats.vercel.app/api?username=sainimohit23" width="45%" height="175px"/> 
 <img src="https://media.giphy.com/media/L32yu49s73AVXx1s2p/giphy.gif" alt="footer" width="100%" height="70px"/>
