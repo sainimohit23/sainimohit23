@@ -3,7 +3,7 @@
 <!-- <img src="https://media.giphy.com/media/hVIZ0gjOtup1nOelcj/giphy.gif" alt="header" width="100%" > -->
 
 <p align="center">
-<img src="https://github.com/sainimohit23/sainimohit23/blob/master/img/smol.gif" width="45%" height="170px"/> <img src="https://github-readme-stats.vercel.app/api?username=sainimohit23" width="45%"/> 
+<img src="https://github.com/sainimohit23/sainimohit23/blob/master/img/smol.gif" width="45%" height="172px"/> <img src="https://github-readme-stats.vercel.app/api?username=sainimohit23" width="45%"/> 
 </p>
 
 ### Hi there 👋
@@ -18,9 +18,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sainimohit23/)
-
-
-
-[![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=sainimohit23)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://media.giphy.com/media/L32yu49s73AVXx1s2p/giphy.gif" alt="footer" width="100%" >
