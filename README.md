@@ -3,7 +3,7 @@
 <!-- <img src="https://media.giphy.com/media/hVIZ0gjOtup1nOelcj/giphy.gif" alt="header" width="100%" > -->
 
 <p align="center">
-<img src="https://github.com/sainimohit23/sainimohit23/blob/master/img/smol.gif" width="45%" height="175px"/> <img src="https://github-readme-stats.vercel.app/api?username=sainimohit23" width="45%"/> 
+<img src="https://github.com/sainimohit23/sainimohit23/blob/master/img/smol.gif" width="45%" height="175px"/> <img src="https://github-readme-stats.vercel.app/api?username=sainimohit23" width="45%" height="175px"/> 
 </p>
 
 ### Hi there 👋
