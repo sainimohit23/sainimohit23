@@ -34,4 +34,4 @@
 </p>
 
 <p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sainimohit23&show_icons=true" alt="sainimohit23" /></p> <p><img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainimohit23&layout=compact&hide=html" alt="sainimohit23" /></p></p>
+<p>&nbsp;<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=sainimohit23&show_icons=true" alt="sainimohit23" /></p> <p><img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainimohit23&layout=compact&hide=html" alt="sainimohit23" /></p></p>
