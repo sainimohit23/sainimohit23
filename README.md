@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohit Saini</h1>
+<h1 align="center">Hi 👋, I'm Mohit</h1>
 <h3 align="center">A developer who happens to have interest deep learning and NLP</h3>
 
 - 🔭 I’m currently working on **unstructured text parsing**
