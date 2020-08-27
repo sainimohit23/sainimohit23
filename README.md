@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit</h1>
-<h3 align="center">A developer who happens to have interest deep learning and NLP</h3>
+<h3 align="center">A developer who happens to have an interest in deep learning and NLP</h3>
 
 - 🔭 I’m currently working on **unstructured text parsing**
 
