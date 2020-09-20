@@ -1,18 +1,13 @@
+<p align="center"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></p>
 <h1 align="center">Hi 👋, I'm Mohit</h1>
 <h3 align="center">A developer who happens to have an interest in Deep Learning and NLP</h3>
 
 - 🔭 I’m currently working on **unstructured text parsing**
-
 - 🌱 I’m currently learning **DevOps**
-
 - 👨‍💻 All of my projects are available at [https://sainimohit23.github.io/](https://sainimohit23.github.io/)
-
 - 📝 I regulary write articles on [https://medium.com/@mohitsaini_54300](https://medium.com/@mohitsaini_54300)
-
 - 💬 Ask me about **Deep Learning, NLP, Flask, Docker**
-
 - 📫 How to reach me **sainimohit23@gmail.com**
-
 - ⚡ Fun fact **Python is older than Java**
 
 ### Blogs posts
