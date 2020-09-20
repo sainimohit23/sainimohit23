@@ -1,5 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></p>
-<h1 align="center">Hi 👋, I'm Mohit</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">, I'm Mohit</h1>
 <h3 align="center">A developer who happens to have an interest in Deep Learning and NLP</h3>
 
 - 🔭 I’m currently working on **unstructured text parsing**
