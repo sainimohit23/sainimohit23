@@ -2,7 +2,7 @@
 <h3 align="center">A developer who happens to have an interest in Deep Learning and NLP</h3>
 
 - 🔭 I’m currently working on **unstructured text parsing**
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Elastic Stack**
 - 👨‍💻 All of my projects are available at [https://sainimohit23.github.io/](https://sainimohit23.github.io/)
 - 📝 I regulary write articles on [https://medium.com/@mohitsaini_54300](https://medium.com/@mohitsaini_54300)
 - 💬 Ask me about **Deep Learning, NLP, Flask, Docker**
